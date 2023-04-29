@@ -2,7 +2,7 @@
 - 2024 February 23-24
 - Phoenix Arizona area
 
-Fun, non-academic conference about programming languages.
+Fun, single-track, non-academic conference about programming languages.
 
 Currently planned speakers in order by first name.
 
