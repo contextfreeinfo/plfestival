@@ -6,11 +6,12 @@ Fun, single-track, non-academic conference about programming languages.
 
 Currently planned speakers in order by first name.
 
-- Andrew Kelley - Zig programming language creator
+- Andrew Kelley - Zig language creator
 - Conor Hoekstra - Host of code_report channel on YouTube
 - Dawn Wages - Python Software Foundation executive board member
-- Evan Ovadia - Vale programming language creator
-- Oscar Spencer - Grain programming language cofounder
+- Evan Ovadia - Vale language creator
+- Oscar Spencer - Grain language cofounder
 - Sabree Blackmon - Formal verification and PL theorist
-- Shriram Krishnamurthi - Pyret and Racket programming languages contributor
+- Shriram Krishnamurthi - Pyret and Racket languages contributor
 - Tim Morgan - Natalie Ruby-to-C++ compiler founder
+- Walter Bright - D language founder
