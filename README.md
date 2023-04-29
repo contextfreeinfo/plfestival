@@ -9,4 +9,4 @@ Currently planned speakers in order by first name.
 - Andrew Kelley - Zig programming language creator
 - Conor Hoekstra - Host of code_report channel on YouTube
 - Dawn Wages - Python Software Foundation executive board member
-
+- Evan Ovadia - Vale programming language creator
