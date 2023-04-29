@@ -4,31 +4,9 @@
 
 Fun, non-academic conference about programming languages.
 
-Speakers in order by first name.
+Currently planned speakers in order by first name.
 
+- Andrew Kelley - Zig programming language creator
+- Conor Hoekstra - Host of code_report channel on YouTube
+- Dawn Wages - Python Software Foundation executive board member
 
-# Andrew Kelley
-
-<a href="https://github.com/andrewrk">
-<img src="photos/andrew-kelley-128.webp" alt="Andrew Kelley"/>
-</a>
-
-Zig programming language creator.
-
-
-# Conor Hoekstra
-
-<a href="https://github.com/codereport">
-<img src="photos/conor-hoekstra-128.webp" alt="Conor Hoekstra"/>
-</a>
-
-Host of code_report channel on YouTube.
-
-
-# Dawn Wages
-
-<a href="https://github.com/DawnWages">
-<img src="photos/dawn-wages-128.webp" alt="Dawn Wages"/>
-</a>
-
-Python Software Foundation executive board member.
