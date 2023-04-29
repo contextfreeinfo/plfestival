@@ -1,6 +1,6 @@
 @media (prefers-color-scheme: dark) {
     :root {
-        --backer: black;
+        --backer: #111;
         --background: #222;
         --color: white;
     }
@@ -8,7 +8,7 @@
 
 @media (prefers-color-scheme: light) {
     :root {
-        --backer: #ddd;
+        --backer: #eee;
         --background: white;
         --color: black;
     }
@@ -30,6 +30,10 @@ body {
     margin: 0 auto;
     padding: 1rem 2rem;
     width: 40rem;
+}
+
+.foot {
+    margin-top: 2rem;
 }
 
 h1 {
