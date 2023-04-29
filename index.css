@@ -8,9 +8,9 @@
 
 @media (prefers-color-scheme: light) {
     :root {
-        --backer: #eee;
+        --backer: #ddd;
         --background: white;
-        --color: black;
+        --color: #111;
     }
 }
 
@@ -24,8 +24,11 @@ a:hover {
 }
 
 body {
+    align-items: center;
     background: var(--background);
     color: var(--color);
+    display: flex;
+    flex-direction: column;
     font-family: sans-serif;
     margin: 0 auto;
     padding: 1rem 2rem;
@@ -34,7 +37,6 @@ body {
 
 h1 {
     margin: 0 0 0.3rem;
-    white-space: nowrap;
 }
 
 html {
