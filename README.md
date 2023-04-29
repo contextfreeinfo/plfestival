@@ -6,16 +6,20 @@ Fun, non-academic conference about programming languages.
 
 Speakers in order by first name.
 
+
 # Andrew Kelley
 
-<img style="float: left; padding-right:2rem" src="photos/andrew-kelley-128.webp" />
+<a href="https://github.com/andrewrk">
+<img src="photos/andrew-kelley-128.webp" alt="Andrew Kelley"/>
+</a>
 
 Zig programming language creator.
 
-<div style="clear: both; margin-bottom: 1rem"></div>
 
 # Dawn Wages
 
-<img style="float: left; padding-right:2rem" src="photos/dawn-wages-128.webp" />
+<a href="https://github.com/DawnWages">
+<img src="photos/dawn-wages-128.webp" alt="Dawn Wages"/>
+</a>
 
 Python Software Foundation executive board member.
