@@ -16,6 +16,15 @@ Speakers in order by first name.
 Zig programming language creator.
 
 
+# Conor Hoekstra
+
+<a href="https://github.com/codereport">
+<img src="photos/conor-hoekstra-128.webp" alt="Conor Hoekstra"/>
+</a>
+
+Host of code_report channel on YouTube.
+
+
 # Dawn Wages
 
 <a href="https://github.com/DawnWages">
