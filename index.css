@@ -34,10 +34,10 @@ body {
     flex-direction: column;
     /* font-family: Gordita, Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif; */
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 1.2rem;
+    font-size: calc(0.9rem + 0.3vmin);
     margin: 0 auto;
     padding: 1rem 2rem;
-    width: 42rem;
+    max-width: 42rem;
 }
 
 h1 {
@@ -85,4 +85,13 @@ html {
     font-size: 120%;
     margin: 0 0.8em;
     text-align: center;
+}
+
+.top {
+    text-align: center;
+}
+
+.top > * {
+    display: inline-block;
+    text-align: left;
 }
