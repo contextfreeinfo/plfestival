@@ -3,6 +3,7 @@
         --backer: #111;
         --background: #222;
         --color: white;
+        --link-color: #fda;
     }
 }
 
@@ -11,11 +12,13 @@
         --backer: #ddd;
         --background: white;
         --color: #111;
+        --link-color: #652;
     }
 }
 
 a {
-    color: var(--color);
+    color: var(--link-color);
+    /* font-weight: bold; */
     text-decoration: none;
 }
 
@@ -29,14 +32,20 @@ body {
     color: var(--color);
     display: flex;
     flex-direction: column;
-    font-family: sans-serif;
+    /* font-family: Gordita, Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif; */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.2rem;
     margin: 0 auto;
     padding: 1rem 2rem;
-    width: 40rem;
+    width: 42rem;
 }
 
 h1 {
     margin: 0 0 0.3rem;
+}
+
+h3 {
+    font-size: 120%;
 }
 
 html {
@@ -61,4 +70,19 @@ html {
 
 .speaker h3 {
     margin: 0 0 0.8rem;
+}
+
+.spread {
+    /* display: flex;
+    flex-direction: row; */
+    margin: 1em 0;
+    text-align: center;
+}
+
+.spread > * {
+    /* border: 1px solid red; */
+    display: inline-block;
+    font-size: 120%;
+    margin: 0 0.8em;
+    text-align: center;
 }
