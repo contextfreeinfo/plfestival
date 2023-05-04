@@ -36,7 +36,7 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: calc(0.9rem + 0.3vmin);
     margin: 0 auto;
-    padding: 1rem 2rem;
+    padding: 1rem 1.5rem;
     max-width: 42rem;
 }
 
@@ -87,11 +87,11 @@ html {
     text-align: center;
 }
 
-.top {
+/* .top {
     text-align: center;
 }
 
 .top > * {
     display: inline-block;
     text-align: left;
-}
+} */
