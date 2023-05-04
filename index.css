@@ -81,7 +81,7 @@ html {
 
 .spread > * {
     /* border: 1px solid red; */
-    display: inline-block;
+    /* display: inline-block; */
     font-size: 120%;
     margin: 0 0.8em;
     text-align: center;
