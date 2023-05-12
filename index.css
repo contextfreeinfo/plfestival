@@ -128,11 +128,11 @@ html {
     visibility: hidden;
 }
 
-/* .top {
+.top {
     text-align: center;
 }
 
-.top > * {
+/* .top > * {
     display: inline-block;
     text-align: left;
 } */
