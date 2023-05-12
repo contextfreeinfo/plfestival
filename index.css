@@ -4,6 +4,7 @@
         --background: #222;
         --color: white;
         --link-color: #fda;
+        --link-filter: invert(94%) sepia(75%) saturate(579%) hue-rotate(308deg) brightness(100%) contrast(102%);
     }
 }
 
@@ -12,7 +13,8 @@
         --backer: #ddd;
         --background: white;
         --color: #111;
-        --link-color: #bb4b23;
+        --link-color: #3f891e;
+        --link-filter: invert(44%) sepia(92%) saturate(391%) hue-rotate(57deg) brightness(83%) contrast(93%);
     }
 }
 
@@ -24,6 +26,13 @@ a {
 
 a:hover {
     text-decoration: underline;
+}
+
+blockquote {
+    border-left: 2px solid var(--color);
+    font-style: italic;
+    margin-left : 0;
+    padding-left: 1rem;
 }
 
 body {
@@ -40,12 +49,34 @@ body {
     max-width: 42rem;
 }
 
+figure {
+    margin-left: 0;
+    margin-right: 0;
+}
+
 h1 {
     margin: 0 0 0.3rem;
 }
 
 h3 {
+    align-items: center;
+    display: flex;
     font-size: 120%;
+}
+
+.home {
+    background-image: url(images/external-link.svg);
+    margin-left: 0.5rem;
+}
+
+.home, .talk {
+    background-size: auto 100%;
+    display: inline-block;
+    filter: var(--link-filter);
+    height: calc(1.8 * (0.9rem + 0.3vmin));
+    margin-bottom: -0.2rem;
+    transform: translate(0, -0.2rem);
+    width: calc(1.8 * (0.9rem + 0.3vmin));
 }
 
 html {
@@ -72,6 +103,10 @@ html {
     margin: 0 0 0.8rem;
 }
 
+/* .speaker:hover .talk {
+    visibility: visible;
+} */
+
 .spread {
     /* display: flex;
     flex-direction: row; */
@@ -85,6 +120,12 @@ html {
     font-size: 120%;
     margin: 0 0.8em;
     text-align: center;
+}
+
+.talk {
+    background-image: url(images/smart_display_FILL0_wght400_GRAD0_opsz48.svg);
+    margin-left: 2rem;
+    visibility: hidden;
 }
 
 /* .top {
