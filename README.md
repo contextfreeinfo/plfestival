@@ -14,6 +14,6 @@ Currently planned speakers in order by first name.
 - Gabriella Gonzalez - Dhall language founder and Haskell enthusiast
 - Oscar Spencer - Grain language cofounder
 - Sabree Blackmon - Formal verification and PL security professional
-- Shriram Krishnamurthi - Contributor Pyret and Racket languages and many more
+- Shriram Krishnamurthi - Contributor to Pyret and Racket languages and many more
 - Tim Morgan - Natalie Ruby-to-C++ compiler founder
 - Walter Bright - D language founder
