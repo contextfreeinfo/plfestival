@@ -83,6 +83,30 @@ html {
     background: var(--backer);
 }
 
+.logos {
+    padding-top: 1rem;
+}
+
+.logos div {
+    display: inline;
+}
+
+.logos img {
+    height: 3rem;
+}
+
+.pay {
+    font-size: 120%;
+    font-weight: bold;
+    text-align: center;
+}
+
+.pay a {
+    border: 0.2rem solid var(--link-color);
+    border-radius: 0.5rem;
+    padding: 0.2rem 0.5rem;
+}
+
 .photo {
     margin-right: 1.5rem;
 }
