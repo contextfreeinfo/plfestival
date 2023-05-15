@@ -16,6 +16,10 @@
         --link-color: #3f891e;
         --link-filter: invert(44%) sepia(92%) saturate(391%) hue-rotate(57deg) brightness(83%) contrast(93%);
     }
+
+    .apl {
+        filter: brightness(10%);
+    }
 }
 
 a {
