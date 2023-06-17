@@ -1,7 +1,7 @@
 # Programming Languages Festival!
 
-- 2024 February 23-24
-- Phoenix Arizona area (most likely)
+- Planning for 2024
+- Maybe Arizona
 
 Fun, single-track, non-academic conference about programming languages.
 
