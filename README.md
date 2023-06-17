@@ -12,6 +12,7 @@ Currently planned speakers in order by first name.
 - Dawn Wages - Python Software Foundation executive board member
 - Evan Ovadia - Vale language creator
 - Gabriella Gonzalez - Dhall language founder and Haskell enthusiast
+- JeanHeyd Meneide - ISO C standard project editor
 - Oscar Spencer - Grain language cofounder
 - Sabree Blackmon - Formal verification and PL security professional
 - Shriram Krishnamurthi - Contributor to Pyret and Racket languages and many more
