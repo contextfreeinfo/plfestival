@@ -1,11 +1,10 @@
 # Programming Languages Festival!
 
-- Planning for 2024
-- Maybe Arizona
+- Originally planned for February 2024 but canceled
 
 Fun, single-track, non-academic conference about programming languages.
 
-Currently planned speakers in order by first name.
+Planned speakers in order by first name.
 
 - Andrew Kelley - Zig language founder
 - Conor Hoekstra - Host of code_report channel on YouTube
